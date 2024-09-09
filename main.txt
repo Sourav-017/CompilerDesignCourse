@@ -1,0 +1,24 @@
+#include <iostream>
+
+using namespace std;
+
+//dfgdfgd  fdg
+
+int j = 0, k = 1;
+
+/*dfgdfgdfg
+sfgsdfg
+dfgdfg
+dfgdfg */
+//fkxdjghdjkfghdfjkghdfkjh
+
+int main() {
+    ifstream inputfile("main.txt");
+    ofstream outputfile("output.txt");
+
+    print("sdfjghkhgkfdjhgfd"); //dfgdfg / sgdfgdf dfghd dfghdh
+    if (i < 10) pass;
+    return 0;
+    int j;
+}
+

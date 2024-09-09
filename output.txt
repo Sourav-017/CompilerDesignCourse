@@ -1,0 +1,29 @@
+#include <iostream>
+
+using namespace std;
+
+
+
+int j = 0, k = 1;
+
+
+
+
+int main() {
+    ifstream inputfile("main.txt");
+    ofstream outputfile("output.txt");
+
+    print("sdfjghkhgkfdjhgfd"); 
+    if (i < 10) pass;
+    return 0;
+    int j;
+}
+
+using
+int
+int
+ifstream
+ofstream
+if
+return
+int
